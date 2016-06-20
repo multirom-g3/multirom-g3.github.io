@@ -22,11 +22,11 @@
 				},
 				{
 					"extra": {"releases":["6.0.1"]},
-					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160619-d850.zip",
-					"version": "Kexec (AOSP-MM)",
-					"md5": "f836faf30dbe9d94a06a1bc21b484ff5",
+					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160620-d850.zip",
+					"version": "Kexec (MM)",
+					"md5": "1fd581e92b619e0cd6ad576b71387172",
 					"type": "kernel",
-					"size": 7182109
+					"size": 7182110
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/d850/multirom_uninstaller.zip",
