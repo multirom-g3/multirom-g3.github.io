@@ -1,0 +1,52 @@
+{
+	"status": "ok",
+	"date": "2016-06-19",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://multirom-g3.github.io/installer/multirom-20160619-v33-UNOFFICIAL-d850.zip",
+					"version": "33",
+					"type": "multirom",
+					"size": 3833400,
+					"md5": "383e62b0d5c7e2475c441f3c4ffcdb0b"
+				},
+				{
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160619-d850.img",
+					"version": "mrom20160619-00",
+					"type": "recovery",
+					"size": 14118928,
+					"md5": "83c9c972f2d69dd41f1b406bb8a9b58b"
+				},
+				{
+					"extra": {"releases":["6.0.1"]},
+					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160619-d850.zip",
+					"version": "Kexec (AOSP-MM)",
+					"md5": "f836faf30dbe9d94a06a1bc21b484ff5",
+					"type": "kernel",
+					"size": 7182109
+				},
+				{
+					"url": "https://multirom-g3.github.io/uninstaller/d850/multirom_uninstaller.zip",
+					"version": "1",
+					"type": "uninstaller",
+					"size": 1623670,
+					"md5": "11b7cc017762a9444d7a4c9a4a0fb6ce"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "d850"
+		}
+	]
+}

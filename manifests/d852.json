@@ -1,0 +1,52 @@
+{
+	"status": "ok",
+	"date": "2016-06-19",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://multirom-g3.github.io/installer/multirom-20160619-v33-UNOFFICIAL-d852.zip",
+					"version": "33",
+					"type": "multirom",
+					"size": 3833398,
+					"md5": "0345c721ff5645ae7ff64fa42be5a80c"
+				},
+				{
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160619-d852.img",
+					"version": "mrom20160619-00",
+					"type": "recovery",
+					"size": 13742096,
+					"md5": "78682caad7446fbd611fd4bf319ec4d8"
+				},
+				{
+					"extra": {"releases":["6.0.1"]},
+					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160619-d852.zip",
+					"version": "Kexec (AOSP-MM)",
+					"md5": "75ad5696377ddd6006aac69fca435043",
+					"type": "kernel",
+					"size": 6802015
+				},
+				{
+					"url": "https://multirom-g3.github.io/uninstaller/d852/multirom_uninstaller.zip",
+					"version": "1",
+					"type": "uninstaller",
+					"size": 1623674,
+					"md5": "0f8f6951f4a2dcf87a45ba182264576e"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "d852"
+		}
+	]
+}

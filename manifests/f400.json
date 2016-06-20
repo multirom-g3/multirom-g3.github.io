@@ -1,0 +1,52 @@
+{
+	"status": "ok",
+	"date": "2016-06-19",
+	"commands": "",
+	"gpg": false,
+	"devices": [
+		{
+			"files": [
+				{
+					"url": "https://multirom-g3.github.io/installer/multirom-20160619-v33-UNOFFICIAL-f400.zip",
+					"version": "33",
+					"type": "multirom",
+					"size": 3833400,
+					"md5": "62e15d0e8b197dc9f6244a929c0a62ee"
+				},
+				{
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160619-f400.img",
+					"version": "mrom20160619-00",
+					"type": "recovery",
+					"size": 12943360,
+					"md5": "12f3a4d9020be90c8acb669db93b3424"
+				},
+				{
+					"extra": {"releases":["6.0.1"]},
+					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160619-f400.zip",
+					"version": "Kexec (AOSP-MM)",
+					"md5": "1591f19137c709de22938484c81cbd0d",
+					"type": "kernel",
+					"size": 6490989
+				},
+				{
+					"url": "https://multirom-g3.github.io/uninstaller/f400/multirom_uninstaller.zip",
+					"version": "1",
+					"type": "uninstaller",
+					"size": 1623673,
+					"md5": "b629822b640d3cef514fa997431e23c8"
+				}
+			],
+			"changelogs": [
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+					"name": "MultiROM"
+				},
+				{
+					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+					"name": "Recovery"
+				}
+			],
+			"name": "f400"
+		}
+	]
+}

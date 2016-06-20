@@ -1,0 +1,6 @@
+====================
+     06-19-2016
+====================
+
+* Updated recovery to 3.0.2-0
+* New Stock TWRP 3.0 Theme thanks to z31s1g & nkk71
