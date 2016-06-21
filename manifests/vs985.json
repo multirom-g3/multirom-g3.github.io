@@ -23,7 +23,7 @@
 				{
 					"extra": {"releases":["6.0.1"]},
 					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160620-vs985.zip",
-					"version": "Kexec (MM)",
+					"version": "Kexec (AOSP-MM)",
 					"md5": "e0e6ad4bb78c495d4a6ff2a46e9f2aa0",
 					"type": "kernel",
 					"size": 7203272
