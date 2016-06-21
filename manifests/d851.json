@@ -29,6 +29,14 @@
 					"size": 6490800
 				},
 				{
+					"extra": {"releases":["6.0"]},
+					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160621-g3_tmo_us.zip",
+					"version": "Kexec (Stock-MM)",
+					"md5": "e9532453d7c8d7adfeb7d066a1016ad3",
+					"type": "kernel",
+					"size": 6387277
+				},
+				{
 					"url": "https://multirom-g3.github.io/uninstaller/d851/multirom_uninstaller.zip",
 					"version": "1",
 					"type": "uninstaller",
