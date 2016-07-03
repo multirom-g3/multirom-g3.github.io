@@ -1,4 +1,11 @@
 ====================
+     07-03-2016
+====================
+
+* Updated kernel for recovery (fixes Aroma crashing)
+* Add sd-ext partition to fstab
+
+====================
      06-19-2016
 ====================
 

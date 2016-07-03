@@ -14,11 +14,11 @@
 					"md5": "ce6c629038a193d02a7cdfc2def76026"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160619-d856.img",
-					"version": "mrom20160619-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160703-d856.img",
+					"version": "mrom20160703-00",
 					"type": "recovery",
-					"size": 13400080,
-					"md5": "75e4ee2b2a14ccafd65b6165f6352304"
+					"size": 12675088,
+					"md5": "9d4002672ad6e8958e36f6ed2c68e48f"
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/d856/multirom_uninstaller.zip",

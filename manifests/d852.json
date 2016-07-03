@@ -14,11 +14,11 @@
 					"md5": "0345c721ff5645ae7ff64fa42be5a80c"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160619-d852.img",
-					"version": "mrom20160619-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160703-d852.img",
+					"version": "mrom20160703-00",
 					"type": "recovery",
-					"size": 13742096,
-					"md5": "78682caad7446fbd611fd4bf319ec4d8"
+					"size": 13156368,
+					"md5": "24ef38c57c895918a134cdad8619daad"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},
