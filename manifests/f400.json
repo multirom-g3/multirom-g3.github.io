@@ -1,24 +1,24 @@
 {
 	"status": "ok",
-	"date": "2016-09-06",
+	"date": "2016-09-07",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20160906-v33a-UNOFFICIAL-f400.zip",
+					"url": "https://multirom-g3.github.io/installer/multirom-20160907-v33a-UNOFFICIAL-f400.zip",
 					"version": "33a",
 					"type": "multirom",
 					"size": 3847248,
 					"md5": "5d6065a84684d61c4b78597dfa280036"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160906-f400.img",
-					"version": "mrom20160906-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160907-f400.img",
+					"version": "mrom20160907-00",
 					"type": "recovery",
 					"size": 13096976,
-					"md5": "8ecbbfbe90ebb7bd4b6af2a5a667e50e"
+					"md5": "0935d60b403a48309554cff2c0f46d1c"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},

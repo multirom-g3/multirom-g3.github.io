@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2016-08-26",
+	"date": "2016-09-07",
 	"commands": "",
 	"gpg": false,
 	"devices": [
@@ -10,15 +10,15 @@
 					"url": "https://multirom-g3.github.io/installer/multirom-20160827-v33a-UNOFFICIAL-d855.zip",
 					"version": "33a",
 					"type": "multirom",
-					"size": 3847240,
-					"md5": "836f6562d1ae386d1b8a72b6d4992a9d"
+					"size": 3847246,
+					"md5": "ac7ca020e00df525e478bb6e1bf3ab43"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160826-d855.img",
-					"version": "mrom20160826-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160907-d855.img",
+					"version": "mrom20160907-00",
 					"type": "recovery",
 					"size": 13709328,
-					"md5": "d80f66ee3829f12fcfb899312d03d8d9"
+					"md5": "3e0b526a7072ee48cd7a893c133fd142"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},
