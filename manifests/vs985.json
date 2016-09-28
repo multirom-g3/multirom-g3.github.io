@@ -7,18 +7,18 @@
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20160907-v33a-UNOFFICIAL-vs985.zip",
-					"version": "33a",
+					"url": "https://multirom-g3.github.io/installer/multirom-20160927-v33b-UNOFFICIAL-vs985.zip",
+					"version": "33b",
 					"type": "multirom",
-					"size": 3847250,
-					"md5": "cc2c23aeb62eef9dae153d5cd99dd979"
+					"size": 3848238,
+					"md5": "d73b85c2271eb772761207dc1d4c5bf3"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160907-vs985.img",
-					"version": "mrom20160907-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160927-vs985.img",
+					"version": "mrom20160927-00",
 					"type": "recovery",
-					"size": 13709328,
-					"md5": "3af3061c91ceb7842dae725f0ee76397"
+					"size": 13805584,
+					"md5": "4c9c76ca973825cdc1f4619da2497d05"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},

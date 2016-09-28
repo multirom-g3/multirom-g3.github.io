@@ -1,8 +1,18 @@
 ====================
+     09-27-2016
+====================
+
+* MultiROM v33b
+* No kexec-hardboot support v4 (by @nkk71)
+* Allow auto booting from external storage (thx to @nkk71)
+* Update MultiROMMgr app to support no kexec-hardboot (thx to @premaca)
+
+====================
      08-26-2016
 ====================
 
-* No kexec-hardboot support (by nkk71)
+* MultiROM v33a
+* No kexec-hardboot support (by @nkk71)
 * Fix unknown boardname issue
 
 ====================

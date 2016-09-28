@@ -1,4 +1,12 @@
 ====================
+     09-27-2016
+====================
+
+* No kexec-hardboot support v4 (by @nkk71)
+* Fix installFromBackup (thx to @nkk71)
+* Fix support for Nougat ROMS (thx to @nkk71)
+
+====================
      09-06-2016
 ====================
 
@@ -8,8 +16,8 @@
      08-26-2016
 ====================
 
-* No kexec-hardboot support (by nkk71)
-* Add secondary support for ROMS with system.img (by nkk71)
+* No kexec-hardboot support (by @nkk71)
+* Add secondary support for ROMS with system.img (by @nkk71)
 
 ====================
      07-03-2016
@@ -23,4 +31,4 @@
 ====================
 
 * Updated recovery to 3.0.2-0
-* New Stock TWRP 3.0 Theme (thanks to z31s1g & nkk71)
+* New Stock TWRP 3.0 Theme (thanks to @z31s1g & @nkk71)
