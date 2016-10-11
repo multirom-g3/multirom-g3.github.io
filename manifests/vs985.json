@@ -1,24 +1,24 @@
 {
 	"status": "ok",
-	"date": "2016-09-07",
+	"date": "2016-10-10",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20160927-v33b-UNOFFICIAL-vs985.zip",
+					"url": "https://multirom-g3.github.io/installer/multirom-20161010-v33b-UNOFFICIAL-vs985.zip",
 					"version": "33b",
 					"type": "multirom",
-					"size": 3848238,
-					"md5": "d73b85c2271eb772761207dc1d4c5bf3"
+					"size": 3848336,
+					"md5": "bd6d70f397e945adc3ce991be17b625e"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160927-vs985.img",
-					"version": "mrom20160927-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20161010-vs985.img",
+					"version": "mrom20161010-00",
 					"type": "recovery",
-					"size": 13805584,
-					"md5": "4c9c76ca973825cdc1f4619da2497d05"
+					"size": 15073296,
+					"md5": "b4727cd64ba865df2f51af3cc6447af9"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},

@@ -1,24 +1,24 @@
 {
 	"status": "ok",
-	"date": "2016-09-07",
+	"date": "2016-10-10",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20160927-v33b-UNOFFICIAL-ls990.zip",
+					"url": "https://multirom-g3.github.io/installer/multirom-20161010-v33b-UNOFFICIAL-ls990.zip",
 					"version": "33b",
 					"type": "multirom",
-					"size": 3848229,
-					"md5": "682b708cae439e7a206f9769a6247283"
+					"size": 3848332,
+					"md5": "4c87313804ca1b29ca07ea227169bbc8"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20160927-ls990.img",
-					"version": "mrom20160927-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20161010-ls990.img",
+					"version": "mrom20161010-00",
 					"type": "recovery",
-					"size": 13187088,
-					"md5": "0213228e06b4e0c819f0c80d8e19c5f2"
+					"size": 14454800,
+					"md5": "976ff998b78f2717adc2f33d2745ba39"
 				},
 				{
 					"extra": {"releases":["6.0.1"]},

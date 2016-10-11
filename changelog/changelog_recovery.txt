@@ -1,4 +1,11 @@
 ====================
+     10-10-2016
+====================
+
+* Add support for bump'd devices
+* Auto-bump devices after injecting MultiROM
+
+====================
      09-27-2016
 ====================
 
