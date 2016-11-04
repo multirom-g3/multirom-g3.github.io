@@ -1,4 +1,19 @@
 ====================
+     11-04-2016
+====================
+
+* MultiROM v33c
+* Enable no-kexec support by default (used if necessary)
+* NOKEXEC: Re-bump boot before flashing primary_boot.img
+* Integrate bump into trampoline (bump after injection)
+* MultiROMMgr: show partition mount for ext ROMs
+* Credit to @nkk71 for the following patches:
+* NO KEXEC 4.1
+* Fix booting into ext ROMs from MultiROMMgr
+* Fix segfault in Developer Options
+* Support for Android 7.1+ ROMs
+
+====================
      10-10-2016
 ====================
 

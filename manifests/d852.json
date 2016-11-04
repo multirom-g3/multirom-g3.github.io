@@ -1,32 +1,24 @@
 {
 	"status": "ok",
-	"date": "2016-10-10",
+	"date": "2016-11-04",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20161010-v33b-UNOFFICIAL-d852.zip",
-					"version": "33b",
+					"url": "https://multirom-g3.github.io/installer/multirom-20161104-v33c-UNOFFICIAL-d852.zip",
+					"version": "33c",
 					"type": "multirom",
-					"size": 3848327,
-					"md5": "5e42a44c6244848c0954d3419302a860"
+					"size": 5121433,
+					"md5": "84d7315604fb800054b57a39b44172ee"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20161010-d852.img",
-					"version": "mrom20161010-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20161104-d852.img",
+					"version": "mrom20161104-00",
 					"type": "recovery",
-					"size": 15095824,
-					"md5": "a5e4954f1b84ccae68d1716e0609740a"
-				},
-				{
-					"extra": {"releases":["6.0.1"]},
-					"url": "https://multirom-g3.github.io/kernels/kexec-AnyKernel-20160620-d852.zip",
-					"version": "Kexec (AOSP-MM)",
-					"md5": "6b94eecd19405c03de4a8b45c0e71aa0",
-					"type": "kernel",
-					"size": 6802017
+					"size": 13836304,
+					"md5": "f25ffb653255a78da35e2fbf5be0e5bd"
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/d852/multirom_uninstaller.zip",
