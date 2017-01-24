@@ -1,4 +1,14 @@
 ====================
+     01-24-2017
+====================
+
+* TWRP 3.0.3-0
+* Patches by nkk71:
+* MultiROM: Create real block device for fake boot.img (fixes long kernel flashes)
+* MultiROM: Fix restorecon to use ROM's own binary
+* MultiROM: Add failed boot.img injection warning
+
+====================
      11-04-2016
 ====================
 

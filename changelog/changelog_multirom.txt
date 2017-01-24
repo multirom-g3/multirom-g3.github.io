@@ -1,4 +1,13 @@
 ====================
+     01-24-2017
+====================
+
+* MultiROM v33d
+* Add LineageOS icon
+* Patches by nkk71:
+* Fix: Update external partitions mount strategy
+
+====================
      11-04-2016
 ====================
 
