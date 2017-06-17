@@ -1,31 +1,31 @@
 {
 	"status": "ok",
-	"date": "2017-01-24",
+	"date": "2017-06-16",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170124-v33d-UNOFFICIAL-d856.zip",
-					"version": "33d",
+					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-d856.zip",
+					"version": "33e",
 					"type": "multirom",
-					"size": "5126596",
-					"md5": "469656397194824aa5598c991c8f6e9d"
+					"size": "5234285",
+					"md5": "61142a7f1441b86bd66d69b50c2941ac"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170124-d856.img",
-					"version": "mrom20170124-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-d856.img",
+					"version": "mrom20170616-00",
 					"type": "recovery",
-					"size": "13377552",
-					"md5": "9176818d5b5acd8a593777b774c9bb92"
+					"size": "13912080",
+					"md5": "d90c145bf4f12df08e37156fee70bb82"
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/d856/multirom_uninstaller.zip",
 					"version": "1",
 					"type": "uninstaller",
-					"size": "1623322",
-					"md5": "8602424e84e344a998e2549a078e5387"
+					"size": "1643033",
+					"md5": "a45278b683c89b3750abb444df3d3424"
 				}
 			],
 			"changelogs": [

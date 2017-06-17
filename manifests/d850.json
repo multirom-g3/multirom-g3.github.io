@@ -1,31 +1,31 @@
 {
 	"status": "ok",
-	"date": "2017-01-24",
+	"date": "2017-06-16",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170124-v33d-UNOFFICIAL-d850.zip",
-					"version": "33d",
+					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-d850.zip",
+					"version": "33e",
 					"type": "multirom",
-					"size": "5126599",
-					"md5": "9799b2285b5ac2513017c73eb06acf37"
+					"size": "5234278",
+					"md5": "c6479a91b5e71fc8236913f0185bbbdd"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170124-d850.img",
-					"version": "mrom20170124-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-d850.img",
+					"version": "mrom20170616-00",
 					"type": "recovery",
-					"size": "13817872",
-					"md5": "20227a8fce0fcf2047ebd3828a978096"
+					"size": "14352400",
+					"md5": "0504be57c9634f9e380a3701485c8354"
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/d850/multirom_uninstaller.zip",
 					"version": "1",
 					"type": "uninstaller",
-					"size": "1623323",
-					"md5": "6e11d059a8bd192c5b6373ab5499fd8f"
+					"size": "1643037",
+					"md5": "c324db0f8a81a4525de33ddba10aeffc"
 				}
 			],
 			"changelogs": [

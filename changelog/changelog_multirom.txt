@@ -1,4 +1,11 @@
 ====================
+     06-16-2017
+====================
+
+* MultiROM v33e
+* multirom: Support mounting booted external EXT4/F2FS (@AdrianDC)
+
+====================
      01-24-2017
 ====================
 

@@ -1,31 +1,31 @@
 {
 	"status": "ok",
-	"date": "2017-01-24",
+	"date": "2017-06-16",
 	"commands": "",
 	"gpg": false,
 	"devices": [
 		{
 			"files": [
 				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170124-v33d-UNOFFICIAL-ls990.zip",
-					"version": "33d",
+					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-ls990.zip",
+					"version": "33e",
 					"type": "multirom",
-					"size": "5126611",
-					"md5": "96d26bc4f60bf6e97b1d1eefdc0d5186"
+					"size": "5234285",
+					"md5": "bd706485ac00d6b4672da1f8044b4d77"
 				},
 				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170124-ls990.img",
-					"version": "mrom20170124-00",
+					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-ls990.img",
+					"version": "mrom20170616-00",
 					"type": "recovery",
-					"size": "13217808",
-					"md5": "c73ddfda212de04d5b8a22fd124611fd"
+					"size": "13752336",
+					"md5": "199e6a71a22ae6ccbfac5dfd69d1d643"
 				},
 				{
 					"url": "https://multirom-g3.github.io/uninstaller/ls990/multirom_uninstaller.zip",
 					"version": "1",
 					"type": "uninstaller",
-					"size": "1623321",
-					"md5": "a96ed31abfa4e21272fa3925d830884c"
+					"size": "1643036",
+					"md5": "54e835db80076158cc32d004164bc607"
 				}
 			],
 			"changelogs": [
