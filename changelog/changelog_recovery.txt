@@ -1,4 +1,12 @@
 ====================
+     02-16-2018
+====================
+
+* TWRP 3.2.1-0
+* recovery: Support for encrypted devices
+* recovery: fix support for adoptable storage
+
+====================
      06-16-2017
 ====================
 

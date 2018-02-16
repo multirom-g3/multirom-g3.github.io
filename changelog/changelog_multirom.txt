@@ -1,4 +1,13 @@
 ====================
+     02-16-2018
+====================
+
+* MultiROM v33e
+* multirom: Support for encryption
+* multirom: Fix multirom for devices using SDCardFS (@nkk71)
+* multirom: Support for Android 8.0 ROMs (@nkk71)
+
+====================
      06-16-2017
 ====================
 

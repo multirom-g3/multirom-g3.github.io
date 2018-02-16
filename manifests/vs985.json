@@ -1,44 +1,44 @@
 {
-	"status": "ok",
-	"date": "2017-06-16",
-	"commands": "",
-	"gpg": false,
-	"devices": [
-		{
-			"files": [
-				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-vs985.zip",
-					"version": "33e",
-					"type": "multirom",
-					"size": "5234282",
-					"md5": "57e2be9fe38d8e21c2fa291c654447a5"
-				},
-				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-vs985.img",
-					"version": "mrom20170616-00",
-					"type": "recovery",
-					"size": "14370832",
-					"md5": "d4a6ea4b4d164816acc2d6a56128af30"
-				},
-				{
-					"url": "https://multirom-g3.github.io/uninstaller/vs985/multirom_uninstaller.zip",
-					"version": "1",
-					"type": "uninstaller",
-					"size": "1643039",
-					"md5": "694dad6b1a30d1a5a7de535c494fa415"
-				}
-			],
-			"changelogs": [
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
-					"name": "MultiROM"
-				},
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
-					"name": "Recovery"
-				}
-			],
-			"name": "vs985"
-		}
-	]
+  "status": "ok",
+  "date": "2018-02-16",
+  "commands": "",
+  "gpg": false,
+  "devices": [
+    {
+      "files": [
+        {
+          "url": "https://multirom-g3.github.io/installer/multirom-20180216-v33e-UNOFFICIAL-vs985.zip",
+          "version": "33e",
+          "type": "multirom",
+          "size": "8573813",
+          "md5": "26bffeadb73daf3eb07dcc742054efc2"
+        },
+        {
+          "url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20180216-vs985.img",
+          "version": "mrom20180216-00",
+          "type": "recovery",
+          "size": "14493712",
+          "md5": "b4d8a20a43fe32538f48d15888e08f94"
+        },
+        {
+          "url": "https://multirom-g3.github.io/uninstaller/vs985/multirom_uninstaller.zip",
+          "version": "1",
+          "type": "uninstaller",
+          "size": "1643111",
+          "md5": "e295fce924009205e1155b22a0cbffe8"
+        }
+      ],
+      "changelogs": [
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+          "name": "MultiROM"
+        },
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+          "name": "Recovery"
+        }
+      ],
+      "name": "vs985"
+    }
+  ]
 }

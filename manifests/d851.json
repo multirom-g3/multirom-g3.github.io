@@ -1,44 +1,44 @@
 {
-	"status": "ok",
-	"date": "2017-06-16",
-	"commands": "",
-	"gpg": false,
-	"devices": [
-		{
-			"files": [
-				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-d851.zip",
-					"version": "33e",
-					"type": "multirom",
-					"size": "3965387",
-					"md5": "97ef249a41d3456aebf04b3e7979f58c"
-				},
-				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-d851.img",
-					"version": "mrom20170616-00",
-					"type": "recovery",
-					"size": "13756416",
-					"md5": "edbdd6523630f616611c9606b492b273"
-				},
-				{
-					"url": "https://multirom-g3.github.io/uninstaller/d851/multirom_uninstaller.zip",
-					"version": "1",
-					"type": "uninstaller",
-					"size": "1643036",
-					"md5": "dc6b740f6f07add7ec267b22f6ab365c"
-				}
-			],
-			"changelogs": [
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
-					"name": "MultiROM"
-				},
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
-					"name": "Recovery"
-				}
-			],
-			"name": "d851"
-		}
-	]
+  "status": "ok",
+  "date": "2018-02-16",
+  "commands": "",
+  "gpg": false,
+  "devices": [
+    {
+      "files": [
+        {
+          "url": "https://multirom-g3.github.io/installer/multirom-20180216-v33e-UNOFFICIAL-d851.zip",
+          "version": "33e",
+          "type": "multirom",
+          "size": "7305239",
+          "md5": "a252364e0bd438d3b1605b5b07c47f78"
+        },
+        {
+          "url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20180216-d851.img",
+          "version": "mrom20180216-00",
+          "type": "recovery",
+          "size": "13912064",
+          "md5": "e56d4d5a2706e3cdb7146d5d1bdb8499"
+        },
+        {
+          "url": "https://multirom-g3.github.io/uninstaller/d851/multirom_uninstaller.zip",
+          "version": "1",
+          "type": "uninstaller",
+          "size": "1643111",
+          "md5": "80c30f2da23401153d9b166ef3a1375f"
+        }
+      ],
+      "changelogs": [
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+          "name": "MultiROM"
+        },
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+          "name": "Recovery"
+        }
+      ],
+      "name": "d851"
+    }
+  ]
 }

@@ -1,44 +1,44 @@
 {
-	"status": "ok",
-	"date": "2017-06-16",
-	"commands": "",
-	"gpg": false,
-	"devices": [
-		{
-			"files": [
-				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-ls990.zip",
-					"version": "33e",
-					"type": "multirom",
-					"size": "5234285",
-					"md5": "bd706485ac00d6b4672da1f8044b4d77"
-				},
-				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-ls990.img",
-					"version": "mrom20170616-00",
-					"type": "recovery",
-					"size": "13752336",
-					"md5": "199e6a71a22ae6ccbfac5dfd69d1d643"
-				},
-				{
-					"url": "https://multirom-g3.github.io/uninstaller/ls990/multirom_uninstaller.zip",
-					"version": "1",
-					"type": "uninstaller",
-					"size": "1643036",
-					"md5": "54e835db80076158cc32d004164bc607"
-				}
-			],
-			"changelogs": [
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
-					"name": "MultiROM"
-				},
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
-					"name": "Recovery"
-				}
-			],
-			"name": "ls990"
-		}
-	]
+  "status": "ok",
+  "date": "2018-02-16",
+  "commands": "",
+  "gpg": false,
+  "devices": [
+    {
+      "files": [
+        {
+          "url": "https://multirom-g3.github.io/installer/multirom-20180216-v33e-UNOFFICIAL-ls990.zip",
+          "version": "33e",
+          "type": "multirom",
+          "size": "8573810",
+          "md5": "dc9aff66142865c5840d077a5c0f5965"
+        },
+        {
+          "url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20180216-ls990.img",
+          "version": "mrom20180216-00",
+          "type": "recovery",
+          "size": "13912080",
+          "md5": "6e52e1c6649a8d4a60e39ad757d4cef0"
+        },
+        {
+          "url": "https://multirom-g3.github.io/uninstaller/ls990/multirom_uninstaller.zip",
+          "version": "1",
+          "type": "uninstaller",
+          "size": "1643107",
+          "md5": "9445205df78456d5accf361e84be2502"
+        }
+      ],
+      "changelogs": [
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+          "name": "MultiROM"
+        },
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+          "name": "Recovery"
+        }
+      ],
+      "name": "ls990"
+    }
+  ]
 }

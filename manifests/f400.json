@@ -1,44 +1,44 @@
 {
-	"status": "ok",
-	"date": "2017-06-16",
-	"commands": "",
-	"gpg": false,
-	"devices": [
-		{
-			"files": [
-				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-f400.zip",
-					"version": "33e",
-					"type": "multirom",
-					"size": "5234276",
-					"md5": "9cb3b0d150f20976c347b0bbebe9c2e5"
-				},
-				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-f400.img",
-					"version": "mrom20170616-00",
-					"type": "recovery",
-					"size": "13758480",
-					"md5": "3a2ed3a6a1cbd884a0c2e59b87e8d531"
-				},
-				{
-					"url": "https://multirom-g3.github.io/uninstaller/f400/multirom_uninstaller.zip",
-					"version": "1",
-					"type": "uninstaller",
-					"size": "1643031",
-					"md5": "5e97a59c76ba6e776366b115ee9483ef"
-				}
-			],
-			"changelogs": [
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
-					"name": "MultiROM"
-				},
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
-					"name": "Recovery"
-				}
-			],
-			"name": "f400"
-		}
-	]
+  "status": "ok",
+  "date": "2018-02-16",
+  "commands": "",
+  "gpg": false,
+  "devices": [
+    {
+      "files": [
+        {
+          "url": "https://multirom-g3.github.io/installer/multirom-20180216-v33e-UNOFFICIAL-f400.zip",
+          "version": "33e",
+          "type": "multirom",
+          "size": "8573820",
+          "md5": "42ea235cae9b503f81814edf5f5af595"
+        },
+        {
+          "url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20180216-f400.img",
+          "version": "mrom20180216-00",
+          "type": "recovery",
+          "size": "13924368",
+          "md5": "3d8a60bd0ff874113fdec568e8ac00ff"
+        },
+        {
+          "url": "https://multirom-g3.github.io/uninstaller/f400/multirom_uninstaller.zip",
+          "version": "1",
+          "type": "uninstaller",
+          "size": "1643106",
+          "md5": "56f74fcb9c93e155bc3b01834492717d"
+        }
+      ],
+      "changelogs": [
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+          "name": "MultiROM"
+        },
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+          "name": "Recovery"
+        }
+      ],
+      "name": "f400"
+    }
+  ]
 }

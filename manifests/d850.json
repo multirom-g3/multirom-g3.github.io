@@ -1,44 +1,44 @@
 {
-	"status": "ok",
-	"date": "2017-06-16",
-	"commands": "",
-	"gpg": false,
-	"devices": [
-		{
-			"files": [
-				{
-					"url": "https://multirom-g3.github.io/installer/multirom-20170616-v33e-UNOFFICIAL-d850.zip",
-					"version": "33e",
-					"type": "multirom",
-					"size": "5234278",
-					"md5": "c6479a91b5e71fc8236913f0185bbbdd"
-				},
-				{
-					"url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20170616-d850.img",
-					"version": "mrom20170616-00",
-					"type": "recovery",
-					"size": "14352400",
-					"md5": "0504be57c9634f9e380a3701485c8354"
-				},
-				{
-					"url": "https://multirom-g3.github.io/uninstaller/d850/multirom_uninstaller.zip",
-					"version": "1",
-					"type": "uninstaller",
-					"size": "1643037",
-					"md5": "c324db0f8a81a4525de33ddba10aeffc"
-				}
-			],
-			"changelogs": [
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
-					"name": "MultiROM"
-				},
-				{
-					"url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
-					"name": "Recovery"
-				}
-			],
-			"name": "d850"
-		}
-	]
+  "status": "ok",
+  "date": "2018-02-16",
+  "commands": "",
+  "gpg": false,
+  "devices": [
+    {
+      "files": [
+        {
+          "url": "https://multirom-g3.github.io/installer/multirom-20180216-v33e-UNOFFICIAL-d850.zip",
+          "version": "33e",
+          "type": "multirom",
+          "size": "8573826",
+          "md5": "1af23b306e60b9976310e687e00351e4"
+        },
+        {
+          "url": "https://multirom-g3.github.io/recovery/TWRP-multirom-20180216-d850.img",
+          "version": "mrom20180216-00",
+          "type": "recovery",
+          "size": "14462992",
+          "md5": "b07e511a98c393feaf65aa1291a2cbb3"
+        },
+        {
+          "url": "https://multirom-g3.github.io/uninstaller/d850/multirom_uninstaller.zip",
+          "version": "1",
+          "type": "uninstaller",
+          "size": "1643108",
+          "md5": "57c604319730b8522e0fd5e7c81690ff"
+        }
+      ],
+      "changelogs": [
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_multirom.txt",
+          "name": "MultiROM"
+        },
+        {
+          "url": "https://multirom-g3.github.io/changelog/changelog_recovery.txt",
+          "name": "Recovery"
+        }
+      ],
+      "name": "d850"
+    }
+  ]
 }
